@@ -278,6 +278,7 @@ section:last-child {
 	}
 }
 
+/*
 .instaFade {
     -webkit-animation-name: reset, fade-in;
     -webkit-animation-duration: 1.5s;
@@ -305,7 +306,7 @@ section:last-child {
     animation-duration: 2.5s;
     animation-timing-function: ease-in;
 }
- 
+*/
 .delayOne {
 	-webkit-animation-delay: 0, .5s;
 	-moz-animation-delay: 0, .5s;
